@@ -4,7 +4,4 @@
 So bassically I am a random who just likes to create stuff.
 [Here's an invite to my bot!](https://discord.com/oauth2/authorize?client_id=1237451263751229590)
 
-I also have an esports career:
-* 25k trophies
-* Max level bloxfruits
-and more xd
+I am mainlly focused on Discord Developing by itself - I used to be a developer on Roblox however.
