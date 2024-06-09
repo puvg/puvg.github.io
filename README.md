@@ -1,6 +1,3 @@
-lol
-more abt me:
-  https://ammo.lol/matthew
+[More about me](https://ammo.lol/matthew)
 
-Important pages:
-  https://puvg.github.io/pvpg.css
+[PvPg source code](https://puvg.github.io/pvpg.css)
